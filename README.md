@@ -12,5 +12,5 @@
 - Tools: Git, GitHub, Visual Studio Code
 
 ## 📫 Let's connect!
-- [LinkedIn](https://linkedin.com/in/tu_usuario)
+- [LinkedIn](https://linkedin.com/in/tomasullua
 
