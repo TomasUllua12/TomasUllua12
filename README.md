@@ -3,7 +3,7 @@
 🎓 I'm a Software Engineer from Argentina, focused on Frontend Development.  
 💻 Currently learning and building projects using **React**, **JavaScript**, **HTML**, and **CSS**.  
 🌱 Passionate about creating intuitive and user-friendly web interfaces.  
-🌍 Open to remote work and excited about opportunities abroad (🇳🇿).  
+🌍 Open to remote work and excited about opportunities abroad.  
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, React
