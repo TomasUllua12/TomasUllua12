@@ -1,16 +1,3 @@
-# 👋 Hi, I'm Tomás Ullua
+<!-- README.md: este archivo muestra un GIF a pantalla completa. Reemplaza el valor de `src` con la URL de tu GIF -->
 
-🎓 I'm a Software Engineer from Argentina, focused on Frontend Development.  
-💻 Currently learning and building projects using **React**, **JavaScript**, **HTML**, and **CSS**.  
-🌱 Passionate about creating intuitive and user-friendly web interfaces.  
-🌍 Open to remote work and excited about opportunities abroad.  
-
-## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js
-- Database: MySQL, SQL
-- Tools: Git, GitHub, Visual Studio Code
-
-## 📫 Let's connect!
-- [LinkedIn](https://linkedin.com/in/tomas-ullua)
-
+<img src="https://i.pinimg.com/originals/e8/53/47/e8534713506058914f7fab11897695bd.gif" alt="fullscreen-gif" style="position:fixed;top:0;left:0;width:100%;height:100%;object-fit:cover;margin:0;padding:0;z-index:9999;">
